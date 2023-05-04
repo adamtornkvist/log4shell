@@ -1,0 +1,19 @@
+{
+  "name": "@adamtornkvist/log4shell",
+  "version": "1.0.0",
+  "description": "This repository contains a Spring Boot web application vulnerable to CVE-2021-44228, nicknamed [Log4Shell](https://www.lunasec.io/docs/blog/log4j-zero-day/).",
+  "main": "VulnerableAppApplication.java",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamtornkvist/log4shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamtornkvist/log4shell/issues"
+  },
+  "homepage": "https://github.com/adamtornkvist/log4shell#readme"
+}
